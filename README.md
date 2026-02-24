@@ -2,6 +2,9 @@
 
 Демо-витрина функциональности интерактивной рабочей тетради (whiteboard) для математики.
 
+## Скриншот
+![Рабочая тетрадь — главная страница](./docs/screenshots/whiteboard-workbook.png)
+
 ## Что показано
 - Инструменты 2D/3D построений.
 - Работа с сечениями 3D-фигур.
@@ -20,7 +23,7 @@ npm install
 npm run dev:showcase
 ```
 
-Откроется маршрут: `/workbook`
+Откроется маршрут: `/workbook` (если браузер не открылся автоматически: [http://localhost:5173/workbook](http://localhost:5173/workbook)).
 
 ## Демо-доступ
 - Учитель: `teacher@axiom.demo` / `magic`
